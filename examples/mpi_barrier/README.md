@@ -1,6 +1,6 @@
 Steps to re-generate the same log file
 
-Install at IPM at $IPM_PREFIX and set:
+Install IPM at `$IPM_PREFIX` and set:
 
     export LD_PRELOAD="$IPM_PREFIX/lib/libipm.so $IPM_PREFIX/lib/libipmf.so"
     IPM_LOG=terse
