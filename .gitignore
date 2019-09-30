@@ -1,0 +1,9 @@
+__pycache__
+.ipynb_checkpoints
+
+*.egg-info
+
+*.x
+
+.vscode
+.DS_Store
